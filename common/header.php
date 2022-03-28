@@ -9,9 +9,9 @@
 						============================================= -->
                 <div id="logo">
                     <a href="?" class="standard-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
-                            src="images/luniva/lunivalogo.png" alt="Canvas Logo"></a>
+                            src="images/luniva/lunivalogo.png" alt="lunivatech Logo"></a>
                     <a href="?" class="retina-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
-                            src="images/luniva/lunivalogo.png" alt="Canvas Logo"></a>
+                            src="images/luniva/lunivalogo.png" alt="lunivatech Logo"></a>
                 </div><!-- #logo end -->
 
                 <!-- <div class="header-misc"> -->
@@ -44,12 +44,12 @@
 
                     <ul class="menu-container">
                         <li class="menu-item">
-                            <a class="menu-link" href="?">
+                            <a class="menu-link" href="home">
                                 <div>Home</div>
                             </a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="?page=about-us">
+                            <a class="menu-link" href="about-us">
                                 <div>About Us</div>
                             </a>
                         </li>
@@ -59,12 +59,12 @@
                             </a>
                             <ul class="sub-menu-container">
                                 <li class="menu-item">
-                                    <a class="menu-link" href="?page=products-carelab">
+                                    <a class="menu-link" href="products-carelab">
                                         <div><i class="icon-lab"></i>Luniva care Lab</div>
                                     </a>
                                 </li>
                                 <li class="menu-item">
-                                    <a class="menu-link" href="?page=products-telmed">
+                                    <a class="menu-link" href="products-telmed">
                                         <div><i class="icon-line-phone"></i>Luniva Telmed</div>
                                     </a>
                                 </li>
@@ -75,24 +75,24 @@
                                 </li>
                                 
                                 <li class="menu-item">
-                                    <a class="menu-link" href="?page=products-hms">
+                                    <a class="menu-link" href="products-hms">
                                         <div><i class="icon-heartbeat"></i>Luniva 360 HMS</div>
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="?page=careers">
+                            <a class="menu-link" href="careers">
                                 <div>Careers</div>
                             </a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="?page=blog">
+                            <a class="menu-link" href="blog">
                                 <div>Blog</div>
                             </a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="?page=contact">
+                            <a class="menu-link" href="contact">
                                 <div>Contact</div>
                             </a>
                         </li>
@@ -119,7 +119,7 @@
                             }
                             if($equ != 'demo'): ?>
                             <li class="menu-item">
-                                <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="?page=demo">
+                                <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="demo">
                                     <div>Request for demo</i></div>
                                 </a>
                             </li>

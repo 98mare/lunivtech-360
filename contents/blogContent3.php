@@ -79,7 +79,7 @@
 
       </div>
       <div class="col-md-3">
-        <a href="?page=blogContent3">
+        <a href="blogContent3">
           <div class="blog-card">
               <div class="blog-card-img">
                 <img src="images/blog/boudha/1.jpg" alt="">

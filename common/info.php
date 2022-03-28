@@ -8,7 +8,7 @@
 </ul> -->
 <ul class="iconlist mb-0">
     <li>
-        <a class="btn btn-outline-primary demo_req" href="?page=demo">
+        <a class="btn btn-outline-primary demo_req" href="demo">
             <div>Request for demo <i class="icon-line-arrow-right"></i></div>
         </a>
     </li>

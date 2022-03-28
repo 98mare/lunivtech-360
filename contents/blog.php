@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 mt-4">
-        <a href="?page=blogContent1">
+        <a href="blogContent1">
           <div class="blog-card">
             <div class="blog-card-img">
               <img src="images/blog/hiking/1.jpg" alt="">
@@ -17,7 +17,7 @@
       </div>
      
       <div class="col-md-4 mt-4">
-        <a href="?page=blogContent2">
+        <a href="blogContent2">
           <div class="blog-card">
             <div class="blog-card-img">
               <img src="images/blog/intern/1.jpg" alt="">
@@ -30,7 +30,7 @@
         </a>
       </div>
       <div class="col-md-4 mt-4">
-        <a href="?page=blogContent4">
+        <a href="blogContent4">
         <div class="blog-card">
             <div class="blog-card-img">
               <img src="images/blog/hiking/5.png" alt="">
@@ -43,7 +43,7 @@
         </a>
       </div>
       <div class="col-md-8 mt-4 mb-4">
-        <a href="?page=blogContent3">
+        <a href="blogContent3">
           <div class="blog-card">
               <div class="blog-card-img">
                 <img src="images/blog/boudha/1.jpg" alt="">

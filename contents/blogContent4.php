@@ -24,7 +24,7 @@
 
       </div>
       <div class="col-md-3">
-        <a href="?page=blogContent1">
+        <a href="blogContent1">
           <div class="blog-card">
             <div class="blog-card-img">
               <img src="images/blog/hiking/1.jpg" alt="">

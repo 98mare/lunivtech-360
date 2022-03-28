@@ -17,7 +17,7 @@
             }
             if($equ != 'demo'): ?>
        
-                <a class="button button-3d button-luniva mt-4" href="?page=demo">
+                <a class="button button-3d button-luniva mt-4" href="demo">
                     <div>Request for demo</i></div>
                 </a>
             <?php endif; ?>
@@ -248,7 +248,7 @@
             }
             if($equ != 'demo'): ?>
        
-                <a class="button button-3d button-luniva mt-4 mb-4" href="?page=demo">
+                <a class="button button-3d button-luniva mt-4 mb-4" href="demo">
                     <div>Request for demo</i></div>
                 </a>
             <?php endif; ?>

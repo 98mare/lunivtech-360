@@ -54,7 +54,7 @@
         </div>
         <div class="left">
             <div class="heading costom">
-                <h2>Best Versetile</h2>
+                <h2>Best Versatile</h2>
             </div>
             <div class="heading costom">
                 <h1>Healthcare Management System</h1>
@@ -68,7 +68,7 @@
             }
             if($equ != 'demo'): ?>
        
-                <a class="button button-3d button-luniva mt-4" href="?page=demo">
+                <a class="button button-3d button-luniva mt-4" href="demo">
                     <div>Request for demo</i></div>
                 </a>
             <?php endif; ?>
@@ -187,7 +187,7 @@
                         }
                         if($equ != 'products-hms'): ?>
 
-                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="?page=products-hms">
+                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="products-hms">
                                 <div>lern more</i></div>
                             </a>
                         <?php endif; ?>
@@ -210,7 +210,7 @@
                         }
                         if($equ != 'products-carelab'): ?>
 
-                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="?page=products-carelab">
+                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="products-carelab">
                                 <div>lern more</i></div>
                             </a>
                         <?php endif; ?>
@@ -234,7 +234,7 @@
                         }
                         if($equ != 'products-telmed'): ?>
 
-                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="?page=products-telmed">
+                            <a class="btn btn-outline-primary demo_req pl-3 pr-3" href="products-telmed">
                                 <div>lern more</i></div>
                             </a>
                         <?php endif; ?>
@@ -311,10 +311,10 @@
             <div class="col-lg-4 col-md-4">
                     <div class="entry">
                         <div class="entry-image">
-                            <a href="?page=products-hms"><img src="images/luniva/3601.png" class="blog_img" alt="Image"  data-animate="fadeIn"></a>
+                            <a href="products-hms"><img src="images/luniva/3601.png" class="blog_img" alt="Image"  data-animate="fadeIn"></a>
                         </div>
                         <div class="entry-title title-xs nott">
-                            <h3><a href="?page=products-hms">Luniva 360 HMS</a></h3>
+                            <h3><a href="products-hms">Luniva 360 HMS</a></h3>
                         </div>
                         <div class="entry-content">
                             <p>
@@ -327,10 +327,10 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="entry">
                         <div class="entry-image">
-                            <a href="?page=products-carelab"><img src="images/luniva/care.jpg" class="blog_img" alt="Image" data-animate="fadeIn"></a>
+                            <a href="products-carelab"><img src="images/luniva/care.jpg" class="blog_img" alt="Image" data-animate="fadeIn"></a>
                         </div>
                         <div class="entry-title title-xs nott">
-                            <h3><a href="?page=products-carelab">Luniva care lab</a></h3>
+                            <h3><a href="products-carelab">Luniva care lab</a></h3>
                         </div>
                         <div class="entry-content">
                             <p>
@@ -343,10 +343,10 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="entry">
                         <div class="entry-image">
-                            <a href="?page=products-telmed"><img src="images/luniva/telemed.png" class="blog_img" alt="Image" data-animate="fadeIn"></a>
+                            <a href="products-telmed"><img src="images/luniva/telemed.png" class="blog_img" alt="Image" data-animate="fadeIn"></a>
                         </div>
                         <div class="entry-title title-xs nott">
-                            <h3><a href="?page=products-telmed">Luniva Telemed</a></h3>
+                            <h3><a href="products-telmed">Luniva Telemed</a></h3>
                         </div>
                         <div class="entry-content">
                             <p>
