@@ -25,14 +25,14 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-4 col-sm-12 costomeOne center costome-img">
-          <img src="images/luniva/telemed.jpg" alt="">
+          <img src="images/luniva/telemed.jpg" alt="luniva telemed">
           </div>
       </div>
 
 
       <div class="row main-row-container">
       <div class="col-md-6">
-          <img src="images/luniva/1slide.jpg" alt="">
+          <img src="images/luniva/1slide.png" alt="Online consultation">
         </div>
         <div class="col-md-6">
             <div class="title-heading">

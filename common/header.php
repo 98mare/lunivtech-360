@@ -8,9 +8,9 @@
                 <!-- Logo
 						============================================= -->
                 <div id="logo">
-                    <a href="?" class="standard-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
+                    <a href="/home" class="standard-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
                             src="images/luniva/lunivalogo.png" alt="lunivatech Logo"></a>
-                    <a href="?" class="retina-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
+                    <a href="/home" class="retina-logo" data-dark-logo="images/luniva/lunivalogo.png"><img
                             src="images/luniva/lunivalogo.png" alt="lunivatech Logo"></a>
                 </div><!-- #logo end -->
 

@@ -3,7 +3,7 @@
     <div class="row main-row-container">
       <div class="col-md-9 blog-detail-container">
         <div class="blog-detail-img">
-          <img src="images/blog/hiking/1.jpg" alt="">
+          <img src="images/blog/hiking/1.jpg" alt="hiking img 1">
         </div>
         <div class="blog-detail-content">
           <div class="blog-title">
@@ -103,7 +103,7 @@
 
       </div>
       <div class="col-md-3">
-        <a href="blogContent2">
+        <a href="JourneyofInternship">
           <div class="blog-card">
             <div class="blog-card-img">
               <img src="images/blog/intern/1.jpg" alt="">

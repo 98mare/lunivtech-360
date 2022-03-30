@@ -4,17 +4,27 @@
 <head>
 
     <!-- Document Title -->
-    <title>Lunivatech | Health Care Managemet System | Content Managemet System | Lab Management System | Both Web based and Application Based Software</title>
+    <title>Lunivatech | Health Care Management System | Lab Management System</title>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Luniva tech is a largest tech-driven modern healthcare platform which has been providing Management software in different parts of the hospital which accelerates the smooth functioning of hospitals with the help of technology" />
-    <meta name="author" content="Lunivatech" />
+    <meta name="author" content="Lunivatech | lunivacare" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="UTF-8">
     <meta name="keywords" content="Software, mobile applications, web hosting, search engine optimization, seo, data management, IT, Information technology, Health Care Management System, Content Maagement System, Online Doctor Consultation, health care system in nepal, health care, health care system, Luniva health Care, web app">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42583918-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    <meta name="keywords" content="Health care managemet system, Lunivatech, Lunivacare, Nepal, HTML, CSS, JavaScript">
-    <meta name="author" content="Lunivatech">
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-42583918-1');
+    </script>
 
     <!-- Stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Poppins:300,400,500,600,700|PT+Serif:400,400i&display=swap" rel="stylesheet" type="text/css" />
@@ -30,7 +40,7 @@
     <link rel="stylesheet" href="images/luniva/luniva_edited.css" type="text/css" />
     <link rel="shortcut icon" href="images/luniva/favicon-50x50.png" type="image/x-icon" />
 
-    <link rel="stylesheet" href="css/lightbox.min.css" type="text/css" />
+    <!-- <link rel="stylesheet" href="css/lightbox.min.css" type="text/css" /> -->
 
 </head>
 <?php
@@ -86,7 +96,7 @@ $last_item_index = count($array) - 1;
         //     $(this.lastElementChild).toggle('fast');
         // })
     </script>
-    <script src="js/lightbox.min.js"></script>
+    <!-- <script src="js/lightbox.min.js"></script> -->
 </body>
 
 </html>

@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-4 col-sm-12 costomeOne center costome-img p-2">
-          <img src="images/luniva/360.png" alt="" style= "border-radius: 50%; width: 300px; height: 300px">
+          <img src="images/luniva/360.png" alt="luniva 360" style= "border-radius: 50%; width: 300px; height: 300px">
           </div>
       </div>
 
@@ -61,7 +61,7 @@
                 <span class='three'></span>
                 </div>
                 <div class="mid">
-                    <img src="images/luniva/hms2.png" alt="">
+                    <img src="images/luniva/hms2.png" alt="health management system">
                 </div>
             </div>
           </div>
@@ -69,7 +69,7 @@
 
       <div class=" row main-row-container">
         <div class="col-md-6 col-sm-6 no-responsive">
-          <img src="images/luniva/monitor-an.png" alt="">    
+          <img src="images/luniva/monitor-an.png" alt="Health management system monitor">    
           </div>
         <div class="col-md-6 col-sm-6">
           <div class="title-heading">
@@ -97,7 +97,7 @@
           </div>
         </div>
         <div class="col-md-6 col-sm-6 responsive">
-          <img src="images/luniva/monitor-an.png" alt="">    
+          <img src="images/luniva/monitor-an.png" alt="Health management system monitor">    
           </div>
       </div>
 
@@ -143,7 +143,7 @@
                 <span class='three'></span>
                 </div>
                 <div class="mid">
-                    <img src="images/luniva/hms4.png" alt="">
+                    <img src="images/luniva/hms4.png" alt="Health management system">
                 </div>
             </div>
           </div>
@@ -161,7 +161,7 @@
                 <span class='three'></span>
                 </div>
                 <div class="mid">
-                    <img src="images/luniva/fullScreenOne.png" alt="">
+                    <img src="images/luniva/fullScreenOne.png" alt="Health management system">
                 </div>
             </div>
           </div>
@@ -198,7 +198,7 @@
                 <span class='three'></span>
                 </div>
                 <div class="mid">
-                    <img src="images/luniva/fullScreenOne.png" alt="">
+                    <img src="images/luniva/fullScreenOne.png" alt="Health management system">
                 </div>
             </div>
           </div>
@@ -237,7 +237,7 @@
 
         </div>
         <div class="col-md-6">
-              <img src="images/luniva/testtube1.jpg" alt="">
+              <img src="images/luniva/testtube1.jpg" alt="test tube">
             </div>
           </div>
 

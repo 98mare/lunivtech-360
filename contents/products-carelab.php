@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-4 col-sm-12 costomeOne center costome-img">
-          <img src="images/luniva/care.jpg" alt="">
+          <img src="images/luniva/care.jpg" alt="luniva care">
           </div>
       </div>
 
@@ -43,13 +43,13 @@
             </div>
         </div>
         <div class="col-md-6">
-            <img src="images/luniva/testtube1.jpg" alt="">
+            <img src="images/luniva/testtube1.jpg" alt="test">
           </div>
       </div>
 
       <div class=" row main-row-container">
         <div class="col-md-6 col-sm-6 no-responsive">
-          <img src="images/luniva/nurse.svg" alt="">
+          <img src="images/luniva/nurse.svg" alt="nurse">
           </div>
         <div class="col-md-6 col-sm-6">
           <div class="title-heading">
@@ -70,7 +70,7 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-6 responsive">
-          <img src="images/luniva/nurse.svg" alt="">
+          <img src="images/luniva/nurse.svg" alt="nurse">
           </div>
       </div>
 
@@ -89,7 +89,7 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-6">
-            <img src="images/luniva/machine.jpg" alt="">
+            <img src="images/luniva/machine.jpg" alt="machine">
           </div>
       </div>
 
@@ -98,10 +98,10 @@
       <div class="row main-row-container">
         <div class="col-md-6 no-responsive">
           <div class="web-conatiner mb-4"> 
-              <img src="images/luniva/carelab1.png" alt="">
+              <img src="images/luniva/carelab1.png" alt="carelab">
             </div>
             <div class="web-conatiner"> 
-              <img src="images/luniva/carelab3.png" alt=""> 
+              <img src="images/luniva/carelab3.png" alt="carelab"> 
             </div>
           </div>
         <div class="col-md-6">
@@ -122,10 +122,10 @@
         </div>
         <div class="col-md-6 responsive">
           <div class="web-conatiner mb-4"> 
-              <img src="images/luniva/carelab1.png" alt="">
+              <img src="images/luniva/carelab1.png" alt="carelab1">
             </div>
             <div class="web-conatiner"> 
-              <img src="images/luniva/carelab3.png" alt=""> 
+              <img src="images/luniva/carelab3.png" alt="carelab"> 
             </div>
           </div> 
       </div>

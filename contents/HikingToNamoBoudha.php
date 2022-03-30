@@ -3,7 +3,7 @@
     <div class="row main-row-container">
       <div class="col-md-9 blog-detail-container">
         <div class="blog-detail-img">
-          <img src="images/blog/boudha/5.jpg" alt="">
+          <img src="images/blog/boudha/5.jpg" alt="boudha image 5">
         </div>
         <div class="blog-detail-content">
           <div class="blog-title">
@@ -79,10 +79,10 @@
 
       </div>
       <div class="col-md-3">
-        <a href="blogContent3">
+        <a href="HikingToNamoBoudha">
           <div class="blog-card">
               <div class="blog-card-img">
-                <img src="images/blog/boudha/1.jpg" alt="">
+                <img src="images/blog/boudha/1.jpg" alt="boudha image 1">
               </div>
               <div class="blog-card-content">
                 <h4>Hiking To Namo Boudha</h4>

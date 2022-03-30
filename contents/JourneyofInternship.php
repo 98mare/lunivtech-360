@@ -3,7 +3,7 @@
     <div class="row main-row-container">
       <div class="col-md-9 blog-detail-container">
         <div class="blog-detail-img">
-          <img src="images/blog/intern/1.jpg" alt="">
+          <img src="images/blog/intern/1.jpg" alt="img 1">
         </div>
         <div class="blog-detail-content">
           <div class="blog-title">
@@ -24,10 +24,10 @@
 
       </div>
       <div class="col-md-3">
-      <a href="blogContent4">
+      <a href="TeambuildingActivity">
         <div class="blog-card">
             <div class="blog-card-img">
-              <img src="images/blog/hiking/5.png" alt="">
+              <img src="images/blog/hiking/5.png" alt="img 5">
             </div>
             <div class="blog-card-content">
               <h4>Team building activity</h4>

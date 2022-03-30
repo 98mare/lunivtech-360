@@ -2,10 +2,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 mt-4">
-        <a href="blogContent1">
+        <a href="HikingToNageGumba">
           <div class="blog-card">
             <div class="blog-card-img">
-              <img src="images/blog/hiking/1.jpg" alt="">
+              <img src="images/blog/hiking/1.jpg" alt="hiking img 1">
             </div>
             <div class="blog-card-content">
               <h4>Hiking to Nage Gumba</h4>
@@ -17,10 +17,10 @@
       </div>
      
       <div class="col-md-4 mt-4">
-        <a href="blogContent2">
+        <a href="JourneyofInternship">
           <div class="blog-card">
             <div class="blog-card-img">
-              <img src="images/blog/intern/1.jpg" alt="">
+              <img src="images/blog/intern/1.jpg" alt="intern img 1">
             </div>
             <div class="blog-card-content">
               <h4>Journey of Internship (Gokul Basnet)</h4>
@@ -30,10 +30,10 @@
         </a>
       </div>
       <div class="col-md-4 mt-4">
-        <a href="blogContent4">
+        <a href="TeambuildingActivity">
         <div class="blog-card">
             <div class="blog-card-img">
-              <img src="images/blog/hiking/5.png" alt="">
+              <img src="images/blog/hiking/5.png" alt="hiking img 5">
             </div>
             <div class="blog-card-content">
               <h4>Team building activity</h4>
@@ -43,10 +43,10 @@
         </a>
       </div>
       <div class="col-md-8 mt-4 mb-4">
-        <a href="blogContent3">
+        <a href="HikingToNamoBoudha">
           <div class="blog-card">
               <div class="blog-card-img">
-                <img src="images/blog/boudha/1.jpg" alt="">
+                <img src="images/blog/boudha/1.jpg" alt="boudha img 1">
               </div>
               <div class="blog-card-content">
                 <h4>Hiking To Namo Boudha</h4>

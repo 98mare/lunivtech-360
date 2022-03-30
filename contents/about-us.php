@@ -15,7 +15,7 @@
           </div>
           <div class="col-md-6">
             <div class="align-items-center round-img"  data-animate="fadeInRight" >
-              <img  src="images/luniva/group.jpg" alt="" width="60%" >
+              <img  src="images/luniva/group.jpg" alt="luniva group picture" width="60%" >
             </div>
             <!-- <div class="collection-img">
               <div class="img-one img-card">
@@ -35,7 +35,7 @@
         <div class="row align-items-center">
         <div class="col-md-6 p-5">
           <div class="">
-              <img data-animate="fadeInLeft" src="images/luniva/mountain.png" alt="" width="280px">
+              <img data-animate="fadeInLeft" src="images/luniva/mountain.png" alt="vision" width="280px">
           </div>
         </div>
         <div class="col-md-6 p-5">
@@ -62,7 +62,7 @@
         </div>
         <div class="col-md-6 p-5">
           <div class="">
-              <img data-animate="fadeInUp" src="images/luniva/target.png" alt="" width="280px">
+              <img data-animate="fadeInUp" src="images/luniva/target.png" alt="Mission" width="280px">
             </div>
         </div>
         </div>
@@ -71,40 +71,40 @@
       <div class="about-wrapper">
         <div class="client-container">
           <div class="client">
-            <img src="images/logo/nrl2.png" alt="">
+            <img src="images/logo/nrl2.png" alt="National Reference Laboratory">
           </div>
           <div class="client">
-            <img src="images/logo/crystalDi.png" alt="">
+            <img src="images/logo/crystalDi.png" alt="Crystal Diagonistic Laboratory">
           </div>
           <div class="client">
-            <img src="images/logo/samjana.jpg" alt="">
+            <img src="images/logo/samjana.jpg" alt="SAMJHANA LABORATORY CLINIC">
           </div>
           <div class="client">
-            <img src="images/logo/matri-sisu.jpg" alt="">
+            <img src="images/logo/matri-sisu.jpg" alt="Matri Shishu Hospital">
           </div>
           <div class="client">
-            <img src="images/logo/LifeCareDi.png" alt="">
+            <img src="images/logo/LifeCareDi.png" alt="Life Care Diagonistic">
           </div>
           <div class="client">
-            <img src="images/logo/manmohan.jpg" alt="">
+            <img src="images/logo/manmohan.jpg" alt="Manmohan">
           </div>
           <div class="client" >
-            <img src="images/logo/nepal.png" alt="" width="70%">
+            <img src="images/logo/nepal.png" alt="nepal" width="70%">
           </div>
           <div class="client" >
-            <img src="images/logo/sarobar.jpg" alt="" width="70%">
+            <img src="images/logo/sarobar.jpg" alt="sarobar" width="70%">
           </div>
           <div class="client" >
-            <img src="images/logo/khangriHospital.jpg" alt="" width="70%">
+            <img src="images/logo/khangriHospital.jpg" alt="khangri Hospital" width="70%">
           </div>
           <div class="client">
-            <img src="images/logo/skinarts.jpg" alt="">
+            <img src="images/logo/skinarts.jpg" alt="skin arts">
           </div>
           <div class="client">
-            <img src="images/logo/chirayupolyclinic.png" alt="">
+            <img src="images/logo/chirayupolyclinic.png" alt="Chirayu polyclinic">
           </div>
           <div class="client">
-            <img src="images/logo/ChinariHospital.jpg" alt="">
+            <img src="images/logo/ChinariHospital.jpg" alt="Chinari Hospital">
           </div>
         </div>
       </div>
